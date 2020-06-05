@@ -1,6 +1,7 @@
 # USPSTrackerDaemon
 
 Sends periodic XFCE notifications to desktop with USPS package status using notify-send.
+
 requires html-xml-utils and libnotify-bin packages to function properly.
 
 **Usage**
