@@ -6,4 +6,4 @@ zz=600;
 if [ ! -z $1 ]; then
     zz=$1;
 fi
-nohup ./dmon.sh $zz $2 &> /dev/null &;
+nohup ./dmon.sh $zz $2 &> /dev/null &
