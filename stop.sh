@@ -1,1 +1,1 @@
-touch /tmp/.killPOTrackerBot01234567;
+killall -9 dmon.sh
